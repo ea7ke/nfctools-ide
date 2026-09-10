@@ -91,5 +91,4 @@ herramientas que ya están en Kali Linux.
   detector de comandos de puerta trasera Gen1a por APDU raw. Si quieres
   algo más fino, se podría añadir un módulo que hable con
   `libnfc`/`pcsc` directamente en vez de pasar por `nfc-mfclassic`.
-- Falta empaquetado `.deb`/`.desktop` para instalación tipo "app" en el
-  menú de Kali (fácil de añadir sobre esta base si te interesa).
+- Falta empaquetado `.deb`/`.desktop` para instalación.
