@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=MCT-IDE
+Comment=IDE gráfico para herramientas MIFARE Classic (mfoc, mfcuk, libnfc)
+Exec=python3 /opt/mct-ide/main.py
+Icon=utilities-terminal
+Terminal=false
+Categories=Security;Utility;
